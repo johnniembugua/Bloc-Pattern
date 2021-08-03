@@ -1,4 +1,4 @@
-# login_bloc
+# bloc_pattern
 
 A new Flutter project.
 

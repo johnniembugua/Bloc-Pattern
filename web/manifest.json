@@ -1,6 +1,6 @@
 {
-    "name": "login_bloc",
-    "short_name": "login_bloc",
+    "name": "bloc_pattern",
+    "short_name": "bloc_pattern",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

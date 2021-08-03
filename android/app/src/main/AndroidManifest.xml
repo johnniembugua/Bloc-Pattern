@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.login_bloc">
+    package="com.example.bloc_pattern">
    <application
-        android:label="login_bloc"
+        android:label="bloc_pattern"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
