@@ -6,7 +6,7 @@ class Validators {
     if (email.contains('@')) {
       sink.add(email);
     } else {
-      sink.addError('Enter valid email'); 
+      sink.addError('Enter valid email');
     }
   });
   final validatePassword = StreamTransformer<String, String>.fromHandlers(
